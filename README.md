@@ -1,6 +1,4 @@
-Got it ✅ I’ll simplify and clean up the README while keeping it aligned with the project title **Pks13\_Pred**. I’ll also fix the small inconsistencies (like "CardiotoxPred" in the citation section). Here’s a simplified version:
 
----
 
 # Pks13\_Pred
 
