@@ -57,7 +57,7 @@ sudo apt-get install docker.io -y
 ### 1. Run the Docker container
 
 ```bash
-sudo docker run -it --rm -v ${PWD}:/workspace ghcr.io/pip700/pks13_pred
+sudo docker run -it --rm -v ${PWD}:/workspace ghcr.io/pip700/pks13_pred:latest
 ```
 
 ### 2. Provide input
